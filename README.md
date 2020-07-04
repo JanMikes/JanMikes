@@ -2,7 +2,7 @@
 
 My secret to not go crazy, is to treat problems as challenges. 
 
-**I am always opened to interesting opportunities.**
+**Do you have interesting problem? [Let me know!](mailto:j.mikes@me.com)**
 
 ----
 
