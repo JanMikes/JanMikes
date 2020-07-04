@@ -6,7 +6,9 @@ My secret to not go crazy, is to treat problems as challenges.
 
 ----
 
-### Favorite challenges ❤️
-- Docker 🐳
-- Clean code
-- Continuous integration & Continuous delivery
+### Daily routine
+
+Cleaning legacy code 🧹  
+Docker 🐳   
+Continuous integration & Continuous delivery  
+Crafting long living PHP 🐘 apps
