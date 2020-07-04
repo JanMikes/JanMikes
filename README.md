@@ -1,12 +1,12 @@
-### Hi, I love to solve problems 👌
+## Hi, I love to solve problems 👌
 
 My secret to not go crazy, is to treat problems as challenges. 
 
-I am always looking for interesting problems to solve.
+**I am always opened to interesting opportunities.**
 
 ----
 
-#### Topics I love:
-- CI/CD
-- Docker
+### Favorite challenges ❤️
+- Docker 🐳
 - Clean code
+- Continuous integration & Continuous delivery
