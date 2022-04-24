@@ -7,7 +7,7 @@ I love to share my experience and talk about stuff like CI/CD, containers, TDD, 
 
 <a href="https://github.com/peon-dev/peon"><img align="right" src="https://user-images.githubusercontent.com/3995003/164972861-0f39562a-4629-4029-9ff9-ec5ff5c08182.png" alt="Peon.dev logo" height="120"></a>
 
-In my spare time, I am building [Peon](https://peon.dev). Open-source tool to automate your boring stuff - you can delegate things like coding standards, fixers and many more to Peon. You can as well choose from many predefined ready-to-use community maintained recipes to improve your codebase. Peon behaves just like your real colleague:
+In my spare time, I am building [Peon](https://peon.dev). Open-source tool to automate your boring stuff - you can delegate things like coding standards, fixers and many more (well, basically anything, that can run in CLI) to Peon. You can as well choose from many predefined ready-to-use community maintained recipes to improve your codebase. Peon behaves just like your real colleague:
 
 1. You: tell peon what to do (define custom tasks and/or pick recipes)
 2. Peon: does the job, opens merge request
