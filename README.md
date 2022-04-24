@@ -1,7 +1,7 @@
 Hi, I am **Jan** 👋 PHP geek from Czech Republic.  
 It has been over 20 years already, since I deployed my first web application!
 
-I love to share my experience and talk about stuff like CI/CD, containers, TDD, DDD, PHP applications architecture and many more... 
+I love to share my experience and talk about stuff like CI/CD, containers, TDD, DDD, PHP applications architecture, automation, monorepos and many more... 
 
 ----
 
