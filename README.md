@@ -13,7 +13,7 @@ I love to share my experience and talk about stuff like CI/CD, containers, TDD, 
 
 - Technical debt challenges aka cleaning legacy PHP code 🧹  
 - Containers 🐳   
-- Continuous integration & Continuous delivery (I love Gitlab CI!)
+- Continuous integration & Continuous delivery (I love automation!)
 - Helping others with their struggles
 
 ----
