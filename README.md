@@ -5,10 +5,6 @@ I love to share my experience and talk about stuff like CI/CD, containers, TDD, 
 
 ----
 
-**BTW I am available to hire since end of February 2023. Do you have interesting PHP application architecture problems to solve, need helping hand with CI/CD or just want to chat? [Let me know!](mailto:j.mikes@me.com)**
-
-----
-
 ### Daily routine
 
 - Technical debt challenges aka cleaning legacy PHP code 🧹  
