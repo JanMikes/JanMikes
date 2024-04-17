@@ -7,7 +7,7 @@ I love to share my experience and talk about stuff like CI/CD, containers, TDD, 
 
 ### My daily routine in Omnicado
 
-<a href="https://www.omnicado.com" target="_blank"><img align="right" src="[https://omnicado.com/assets/omnicado-logo-lightmode.svg](https://avatars.githubusercontent.com/u/129689818?s=200&v=4)" alt="Omnicado.com logo" width="120"></a>
+<a href="https://www.omnicado.com" target="_blank"><img align="right" src="https://avatars.githubusercontent.com/u/129689818?s=200&v=4" alt="Omnicado.com logo" width="120"></a>
 
 - Technical debt challenges aka cleaning legacy PHP code 🧹  
 - Containers 🐳   
